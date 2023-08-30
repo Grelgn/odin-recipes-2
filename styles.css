@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 241, 233);
+}
+
+h1,
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px
+}
+
+h1 {
+    text-align: center;
+    font-size: 128px;
+    margin: 50px;
+}
+
+p,
+h2,
+ul,
+ol {
+    margin-left: 30%;
+
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
