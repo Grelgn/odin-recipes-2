@@ -28,3 +28,12 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
+.links>ul>li {
+    display: inline;
+    margin: 80px;
+}
+
+.links {
+    margin: 100px auto;
+}
